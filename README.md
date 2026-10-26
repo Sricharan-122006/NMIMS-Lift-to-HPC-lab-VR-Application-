@@ -146,6 +146,10 @@ GitHub: [@Sricharan-122006](https://github.com/Sricharan-122006)
 
 Project Repository: [NMIMS Lift to HPC Lab VR Application](https://github.com/Sricharan-122006/NMIMS-Lift-to-HPC-lab-VR-Application-)
 
+VR App link (Run in VR Headset only) :
+
+(https://drive.google.com/file/d/1pB8LNYciSeRUaUPGr0PdfezKdajiuo8U/view?usp=sharing)
+
 ## 🤝 Contributions
 
 Suggestions and improvements are welcome!
